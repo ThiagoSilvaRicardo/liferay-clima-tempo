@@ -1,0 +1,4 @@
+Bundle-Name: clima-tempo
+Bundle-SymbolicName: clima.tempo
+Bundle-Version: 1.0.0
+Export-Package: clima.tempo.constants
